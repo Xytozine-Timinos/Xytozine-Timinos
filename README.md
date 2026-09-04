@@ -1,0 +1,4 @@
+- Used to be Xgameisdabest (Account got deleted due to severe accident)
+- Vietnamese Dev 🇻🇳
+- Linux (Ubuntu, Fedora User) 🐧
+- Currently work on hyprland dotfiles
