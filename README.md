@@ -2,3 +2,4 @@
 - Vietnamese Dev 🇻🇳
 - Linux (Ubuntu, Fedora User) 🐧
 - Currently work on hyprland dotfiles
+- Mainly work on [Codeberg](https://codeberg.org/Xytozine/)
